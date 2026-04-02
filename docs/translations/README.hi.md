@@ -1,9 +1,8 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # प्रथम योगदान
-अन्य साधनों का उपयोग करने के लिए
 इस परियोजना का उद्देश्य शुरुआती लोगों द्वारा अपना पहला योगदान करने की प्रक्रिया को सरल और मार्गदर्शित करना है। यदि आप योगदान देना चाहते हैं, तो नीचे दिए गए चरणों का पालन करें।
 
 आर्टिकल्स पढ़ना और ऑनलाइन ट्यूटोरियल्स देखना मददगार साबित हो सकते हैं, लेकिन बिना कुछ गलती करके खुद काम करने से अच्छा हो सकता है। इस प्रोजेक्ट आपको अपने पहले योगदान के लिए दिशा निर्देशित करेगा। याद रखें - जितने तनाव मुक्त होकर आप सीखेंगे, उतना ही बेहतर सीख पाएंगे। नीचे दिए गए निर्देशों का पालन करें।
